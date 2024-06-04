@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">电源 App</string>
+    <string name="app_description">一个简单的电源选项app</string>
+    <string name="loading">读取中</string>
+    <string name="shutdown">关机</string>
+    <string name="reboot">重启</string>
+    <string name="reboot_into_safe_mode">重启到安全模式</string>
+    <string name="reboot_into_recovery">重启到Recovery</string>
+    <string name="reboot_into_bootloader">重启到Bootloader</string>
+    <string name="reboot_into_edl">重启到EDL</string>
+    <string name="soft_reboot">软重启</string>
+    <string name="restart_system_ui">重启系统UI</string>
+    <string name="turn_off_screen">关闭屏幕</string>
+    <string name="confirm_dialog">确定吗？</string>
+    <string name="confirm_dialog_summary">确定要执行选中的操作？</string>
+    <string name="action_failed">操作失败</string>
+    <string name="action_failed_summary">需要Root权限，请启用Root。</string>
+    <string name="root">请求Root权限</string>
+    <string name="pref">设置</string>
+    <string name="pref_confirm_dialog">确认框</string>
+    <string name="pref_confirm_dialog_summary">执行操作前需要确认</string>
+    <string name="about">关于</string>
+    <string name="about_summary">关于 App</string>
+    <string name="about_app_version">App 版本</string>
+    <string name="about_privacy">外部内容</string>
+    <string name="about_privacy_desc">外部内容会从Github加载。请阅读他们的隐私策略以获取更多信息。</string>
+    <string name="about_privacy_policy">隐私策略</string>
+    <string name="about_contributors">贡献者</string>
+    <string name="about_contributors_desc">贡献者列表</string>
+    <string name="about_general">通用</string>
+    <string name="about_github">GitHub 仓库</string>
+    <string name="about_license">许可证</string>
+    <string name="about_icons">图标</string>
+    <string name="about_icons_desc">Icons8 and Google 的图标</string>
+    <string name="about_libraries">库</string>
+    <string name="about_libraries_desc">使用的库列表</string>
+</resources>
